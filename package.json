@@ -1,0 +1,21 @@
+{
+  "name": "space-tabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "space-tabs": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.1",
+    "righto": "^2.6.0"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
