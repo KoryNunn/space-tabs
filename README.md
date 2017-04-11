@@ -2,6 +2,8 @@
 
 glob-convert spaces/tabs
 
+INCOMPLETE.
+
 ## Usage
 
 ```
