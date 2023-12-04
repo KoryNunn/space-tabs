@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "glob": "^7.1.1",
+    "glob": "^9.0.0",
     "righto": "^2.6.0"
   },
   "devDependencies": {
